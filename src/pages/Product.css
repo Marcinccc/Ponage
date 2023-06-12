@@ -1,0 +1,21 @@
+.container.product{
+    margin-top:100px;
+    border: 1px black solid;
+
+}
+.row{
+    display: flex;
+}
+.col{
+
+    display: flex;
+    justify-content: center;
+    border:1px red solid;
+    height: 300px;
+}
+img .imgproduct{
+   
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
