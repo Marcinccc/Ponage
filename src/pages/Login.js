@@ -7,6 +7,7 @@ import {
   MDBIcon
 }
 from 'mdb-react-ui-kit';
+
 import Menu from  "../components/menu/Menu";
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
         <a href="!#">Forgot password?</a>
       </div>
 
-      <MDBBtn className="mb-4">Sign in</MDBBtn>
+      <MDBBtn className="mb-4 btn btn-outline-secondary" >Sign in</MDBBtn>
 
       <div className="text-center">
         <p>Not a member? <a href="#!">Register</a></p>

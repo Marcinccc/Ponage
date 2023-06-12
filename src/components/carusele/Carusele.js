@@ -1,6 +1,6 @@
 import React from  'react';
 import Carousel from 'react-bootstrap/Carousel';
-import '../jumbotron/Jumbotron.css';
+import './Carusele.css';
 
 function Jumbotron() {
   
@@ -10,7 +10,7 @@ function Jumbotron() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src= "https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/278568123_498660315237686_5133426428343217996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=PUDo-cH6PpwAX_ikOHt&_nc_ht=scontent.fpoz3-1.fna&oh=00_AfDqVN41VyuHBVVTzF_1R9GPo6G7y5FoDoJ0Jh32nvIKYw&oe=6485EF4F"
+          src= "https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/278568123_498660315237686_5133426428343217996_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ODKaBO1B8GMAX95h1kY&_nc_ht=scontent.fpoz3-1.fna&oh=00_AfBgC7bek6EXemqhdIcK3MPMqwDeucjMPIFfpklAbKMD1Q&oe=648BDE0F"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -21,7 +21,7 @@ function Jumbotron() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/279870376_506013471169037_4506478801249442751_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a26aad&_nc_ohc=AFyA_kIpFsUAX8h7asN&_nc_ht=scontent.fpoz3-1.fna&oh=00_AfD4evZRaC3tiX-rw28Lj9HiobZ-8598DpJqZTTSdRT2Cg&oe=64868303"
+          src="https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/291476904_545386557231728_7014751900222143798_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a26aad&_nc_ohc=96jkU5AmsUEAX92IG45&_nc_ht=scontent.fpoz3-1.fna&oh=00_AfD6QJln7P3jor_kJaSmZHZdPyBlHVwpynxbITiHVSpiUA&oe=648BDB1A"
           alt="Second slide"
         />
 
@@ -33,7 +33,7 @@ function Jumbotron() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/280652315_513364120433972_4911261458466269916_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a26aad&_nc_ohc=IIK-iFTVljIAX-wUvq3&_nc_ht=scontent.fpoz3-1.fna&oh=00_AfB2tOhK_UFyEl1edelBaMwJ9VKVZOqNMNZ5-3xSCH2Vdg&oe=648639E6"
+          src="https://scontent.fpoz3-1.fna.fbcdn.net/v/t39.30808-6/280652315_513364120433972_4911261458466269916_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a26aad&_nc_ohc=YOKbsYac10gAX-Tlcgt&_nc_ht=scontent.fpoz3-1.fna&oh=00_AfBp77SIYmDVDMRaXynA_4cTLcys3zfsO7oc5NfOQQSALQ&oe=648C28A6"
           alt="Third slide"
         />
 
