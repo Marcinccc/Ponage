@@ -1,5 +1,11 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  color:black
+}
 .App {
   text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+
 }
 
 .App-logo {
@@ -36,3 +42,5 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,700;1,400&display=swap');
